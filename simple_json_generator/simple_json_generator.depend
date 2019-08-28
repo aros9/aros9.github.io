@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1565541687 source:c:\users\kkowa\onedrive\pulpit\simple json generator\simple_json_generator\main.cpp
-	<iostream>
-	<fstream>
-	<cstdlib>
-
